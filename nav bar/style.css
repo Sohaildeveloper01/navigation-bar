@@ -15,6 +15,7 @@ body{
     width: 100px;
 }
 .nav-links{
+    color: black;
     display: flex;
     list-style-type: none;
     gap: 1em;
